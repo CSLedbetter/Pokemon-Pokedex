@@ -1,0 +1,20 @@
+{
+  "name": "Pokemon-Pokedex",
+  "description": "A cool app that gives details about Pokemon",
+  "main": "index.html",
+  "keywords": [
+    "Pokedex"
+  ],
+  "authors": [
+    "Casey Ledbetter"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/CSLedbetter",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
